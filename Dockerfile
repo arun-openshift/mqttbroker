@@ -1,0 +1,3 @@
+FROM hivemq/hivemq4
+EXPOSE 8080
+EXPOSE 1883
